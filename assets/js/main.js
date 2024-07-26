@@ -25,12 +25,12 @@
 		});
 
 	// Dropdowns.
-		$('#nav > ul').dropotron({
-			mode: 'fade',
-			noOpenerFade: true,
-			alignment: 'center',
-			detach: false
-		});
+		// $('#nav > ul').dropotron({
+		// 	mode: 'fade',
+		// 	noOpenerFade: true,
+		// 	alignment: 'center',
+		// 	detach: false
+		// });
 
 	// Nav.
 
